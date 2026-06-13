@@ -23,7 +23,3 @@ Research interests
 Currently
 ======
 I'm developing deep learning models for predicting chromatin accessibility from genomic sequence, and working on tissue-specific motif and cis-regulatory analysis. I also do a fair amount of HPC cluster administration and pipeline engineering to support the lab's sequencing work.
-
-Get in touch
-======
-You can find my links in the sidebar — feel free to reach out by email, or browse my code on [GitHub](https://github.com/Lv-BioInfo). My publication list is on the [Publications](/publications/) page<!-- 没有论文页可删掉这句 -->, and you can find me on [ORCID](https://orcid.org/0009-0008-3618-635X).
