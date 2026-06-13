@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Bioinformatics researcher · deep learning for regulatory genomics"  # 按你的身份微调，如 PhD candidate / Postdoc
   location         : "Nanjing, China"                           # 待填写，例如 "Beijing, China"
-  employer         : "Dr. Dijun Chen Lab, XX University"                           # 待填写：课题组 / 院校，例如 "Dr. Chen Lab, XX University"
+  employer         : "Dr. Dijun Chen Lab, Nanjing University"                           # 待填写：课题组 / 院校，例如 "Dr. Chen Lab, XX University"
   uri              : # URL
   email            : "602024300028@smail.nju.edu.cn"                           # 待填写：联系邮箱
 
