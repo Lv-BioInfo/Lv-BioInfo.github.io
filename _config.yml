@@ -22,7 +22,7 @@ repository               : "Lv-BioInfo/Lv-BioInfo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"               # 把头像放到 images/profile.png
+  avatar           : "WechatIMG1989.jpeg"               # 把头像放到 images/profile.png
   name             : "Tongxuan Lv"               # 想显示中文名可改成 "吕同轩 (Tongxuan Lv)"
   pronouns         : # example: "she/her"  
   bio              : "Bioinformatics researcher · deep learning for regulatory genomics"  # 按你的身份微调，如 PhD candidate / Postdoc
