@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 下面几处请按实际情况修改：身份(role)、课题组/院校(affiliation)。其余 <!-- 待填写 --> 处可补充或删除。 -->
+<!-- 下面几处请按实际情况修改：身份(role)、课题组/院校(affiliation)。 -->
 
-Hi, I'm Tongxuan Lv (吕同轩), a researcher in bioinformatics at <!-- 待填写：课题组 / 院校，例如 the Chen Lab, XX University -->. My work sits at the intersection of **deep learning** and **regulatory genomics**: I build computational models that learn how DNA sequence shapes gene regulation, and I help maintain the high-performance computing infrastructure that makes large-scale genomics analysis possible.
+Hi, I'm Tongxuan Lv (吕同轩), a researcher in bioinformatics at the Dijun Chen Lab, Nanjing University. My work sits at the intersection of **deep learning** and **regulatory genomics**: I build computational models that learn how DNA sequence shapes gene regulation, and I help maintain the high-performance computing infrastructure that makes large-scale genomics analysis possible.
 
 I'm broadly interested in how the non-coding genome encodes cell- and tissue-specific gene regulation, and in turning that understanding into predictive models and reproducible analysis pipelines.
 
@@ -23,9 +23,6 @@ Research interests
 Currently
 ======
 I'm developing deep learning models for predicting chromatin accessibility from genomic sequence, and working on tissue-specific motif and cis-regulatory analysis. I also do a fair amount of HPC cluster administration and pipeline engineering to support the lab's sequencing work.
-
-<!-- 想展示具体项目/课题，可在这里加一个列表，例如：
-- **Project name** — one-line description. [Code](https://github.com/...) -->
 
 Get in touch
 ======
